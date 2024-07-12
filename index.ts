@@ -252,7 +252,7 @@ function calculateELO(stats: any): number {
                (stats.pit?.meleeAccuracy * meleeAccuracyMultiplier);
 
   // Sum all ELOs to get the final ELO
-  let totalELO = skywarsELO ?? 0 / (stats.skywars?.playedGames+1 * 0.3) + bedwarsELO ?? 0 / (stats.bedwars?.playedGames+1 * 0.7) + duelsELO ?? 0 + pitELO ?? 0;
+  let totalELO = skywarsELO ?? 0 / (stats.skywars?.playedGames < 1 ? 1 : stats.skywars?.playedGames * 0.3) + bedwarsELO ?? 0 / (stats.bedwars?.playedGames < 1 ? 1 : stats.bedwars?.playedGames * 0.7) + duelsELO ?? 0 + pitELO ?? 0;
   return totalELO;
 }
 
