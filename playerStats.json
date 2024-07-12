@@ -1,0 +1,2752 @@
+{
+  "skywars": {
+    "coins": 739445,
+    "souls": 3344,
+    "tokens": 219000,
+    "winstreak": 0,
+    "kills": 906,
+    "losses": 1308,
+    "deaths": 1315,
+    "wins": 68,
+    "heads": 80,
+    "experience": 1783,
+    "level": 7,
+    "levelProgress": {
+      "currentLevelXp": 783,
+      "xpToNextLevel": 217,
+      "percent": 78.3,
+      "xpNextLevel": 1000
+    },
+    "levelFormatted": "7☆",
+    "prestige": "Iron",
+    "prestigeIcon": "☆",
+    "playedGames": 216,
+    "KDRatio": 0.69,
+    "WLRatio": 0.05,
+    "opals": 1,
+    "avarice": 0,
+    "tenacity": 0,
+    "shards": 0,
+    "angelOfDeathLevel": 2,
+    "shardsInMode": {
+      "solo": 0,
+      "team": 0,
+      "mega": 0,
+      "lab": 0
+    },
+    "solo": {
+      "overall": {
+        "winstreak": 0,
+        "playedGames": 189,
+        "kills": 720,
+        "wins": 53,
+        "losses": 1006,
+        "deaths": 1006,
+        "KDRatio": 0.72,
+        "WLRatio": 0.05
+      },
+      "normal": {
+        "kills": 697,
+        "deaths": 972,
+        "wins": 51,
+        "losses": 972,
+        "KDRatio": 0.72,
+        "WLRatio": 0.05
+      },
+      "insane": {
+        "kills": 23,
+        "deaths": 34,
+        "wins": 2,
+        "losses": 34,
+        "KDRatio": 0.68,
+        "WLRatio": 0.06
+      }
+    },
+    "team": {
+      "overall": {
+        "winstreak": 0,
+        "playedGames": 26,
+        "kills": 170,
+        "wins": 10,
+        "losses": 250,
+        "deaths": 257,
+        "KDRatio": 0.66,
+        "WLRatio": 0.04
+      },
+      "normal": {
+        "kills": 162,
+        "deaths": 237,
+        "wins": 8,
+        "losses": 232,
+        "KDRatio": 0.68,
+        "WLRatio": 0.03
+      },
+      "insane": {
+        "kills": 8,
+        "deaths": 20,
+        "wins": 2,
+        "losses": 18,
+        "KDRatio": 0.4,
+        "WLRatio": 0.11
+      }
+    },
+    "mega": {
+      "overall": {
+        "winstreak": 0,
+        "playedGames": 0,
+        "kills": 0,
+        "wins": 0,
+        "losses": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "WLRatio": 0
+      },
+      "solo": {
+        "playedGames": 0,
+        "kills": 0,
+        "wins": 0,
+        "losses": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "WLRatio": 0
+      },
+      "doubles": {
+        "playedGames": 0,
+        "kills": 0,
+        "wins": 0,
+        "losses": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "WLRatio": 0
+      }
+    },
+    "lab": {
+      "winstreak": 0,
+      "playedGames": 1,
+      "kills": 0,
+      "wins": 0,
+      "losses": 7,
+      "deaths": 7,
+      "KDRatio": 0,
+      "WLRatio": 0
+    },
+    "packages": {
+      "rawPackages": [
+        "update_solo_team_kits_and_perks",
+        "update_solo_team_kits2",
+        "update_solo_team_perk_levels",
+        "convertedstatstoexp",
+        "update_opals_prestige",
+        "kit_advanced_solo_knight",
+        "balloon_hearts",
+        "sprays_sorry",
+        "killeffect_fire_breath",
+        "deathcry_dry_bones",
+        "deathcry_robot_mouse",
+        "sprays_i_love_you",
+        "kit_advanced_solo_enchanter",
+        "cage_sky-cage",
+        "kit_basic_solo_grenade",
+        "kit_basic_solo_healer",
+        "kit_defending_team_disco",
+        "divisionskywars_skywars_rating_11_21",
+        "deathcry_dinosaur",
+        "cage_orange-cage",
+        "sprays_tranquility",
+        "sprays_christmas_tree",
+        "killmessages_galactic",
+        "balloon_medkit",
+        "sprays_reveillon",
+        "sprays_santa",
+        "killmessages_insectoid",
+        "kit_basic_solo_princess",
+        "kit_supporting_team_healer",
+        "kit_attacking_team_scout",
+        "kit_supporting_team_armorsmith",
+        "kit_basic_solo_batguy",
+        "kit_basic_solo_armorsmith",
+        "kit_defending_team_batguy",
+        "kit_basic_solo_scout",
+        "kit_defending_team_frog",
+        "kit_attacking_team_knight",
+        "kit_basic_solo_disco",
+        "kit_advanced_solo_armorer",
+        "kit_enderchest_solo_enderchest",
+        "kit_attacking_team_energix",
+        "kit_defending_team_cactus",
+        "kit_supporting_team_rookie",
+        "kit_supporting_team_warlock",
+        "killmessages_oxed",
+        "balloon_molten_reactor",
+        "sprays_festive_harbinger",
+        "sprays_decorative_island",
+        "balloon_snow_globe",
+        "sprays_creeper",
+        "cage_bubblegum-cage",
+        "sprays_snowball_fight",
+        "cage_green-cage",
+        "cage_splendent",
+        "kit_basic_solo_rookie",
+        "divisionskywars_skywars_rating_1_22",
+        "kit_basic_solo_cactus",
+        "kit_defending_team_armorer",
+        "kit_attacking_team_grenade",
+        "kit_basic_solo_snowman",
+        "killeffect_egg_theft",
+        "balloon_fusion",
+        "sprays_bunny_gg",
+        "kit_supporting_team_ecologist",
+        "kit_advanced_solo_pyro",
+        "kit_basic_solo_ecologist",
+        "killmessages_woof",
+        "projectiletrail_potion",
+        "kit_basic_solo_energix",
+        "kit_attacking_team_pig-rider",
+        "kit_attacking_team_sloth",
+        "sprays_thanks",
+        "balloon_funkube",
+        "balloon_relic",
+        "kit_advanced_solo_enderman",
+        "kit_advanced_solo_sloth",
+        "divisionskywars_skywars_rating_4_22",
+        "kit_basic_solo_frog",
+        "kit_advanced_solo_jester",
+        "kit_supporting_team_pharaoh",
+        "kit_attacking_team_slime",
+        "cage_toffee-cage",
+        "projectiletrail_snowball",
+        "sprays_year_of_the_dog",
+        "kit_advanced_solo_zookeeper",
+        "kit_enderchest_team_enderchest",
+        "kit_supporting_team_troll",
+        "victorydance_cold_snap",
+        "sprays_good_fortune",
+        "cage_house",
+        "favoritemap_palette",
+        "divisionskywars_skywars_rating_5_22",
+        "killmessages_pirate",
+        "victorydance_floating_lanterns",
+        "kit_attacking_team_snowman",
+        "divisionskywars_skywars_rating_6_22",
+        "cage_rage-cage",
+        "divisionskywars_skywars_rating_7_22",
+        "kit_advanced_solo_cannoneer",
+        "update_shard_removal",
+        "update_shard_removal_bedrock",
+        "angels_descent_tree_2022",
+        "killeffect_lighting_strike",
+        "victorydance_slimester",
+        "deathcry_ding",
+        "sprays_year_of_the_tiger",
+        "deathcry_pig",
+        "deathcry_bat",
+        "projectiletrail_black_smoke",
+        "sprays_lucky_start",
+        "sprays_year_of_the_ox",
+        "projectiletrail_ender",
+        "cage_cloud-cage",
+        "cage_dark-cage",
+        "cage_mist-cage",
+        "killeffect_squid_missile",
+        "killmessages_oink",
+        "balloon_green_fractal",
+        "sprays_bye_bye",
+        "cage_notch-apple-cage",
+        "cage_void-cage",
+        "sprays_fireworks",
+        "sprays_year_of_the_pig",
+        "sprays_soul_harvest",
+        "cage_royal-cage",
+        "sprays_pyro",
+        "killeffect_tnt",
+        "killeffect_firework",
+        "killmessages_computer",
+        "deathcry_firework",
+        "victorydance_twerk_apocalypse",
+        "cage_snowman",
+        "cage_penguin",
+        "killeffect_present_rain",
+        "killeffect_frozen_in_time",
+        "killeffect_crackling_ice",
+        "projectiletrail_twirling_snowflake",
+        "victorydance_snow_bomber",
+        "victorydance_winter_twister",
+        "cage_red_ornament",
+        "cage_green_ornament",
+        "kit_basic_solo_baseball-player",
+        "cage_sapling",
+        "kit_advanced_solo_pig-rider",
+        "cage_premium-cage",
+        "sprays_angry_turkey",
+        "balloon_rat",
+        "projectiletrail_fire",
+        "balloon_rainbowest",
+        "cage_lime-cage",
+        "balloon_bookworm",
+        "balloon_red_skull",
+        "victorydance_anvil_rain",
+        "killmessages_squeak",
+        "sprays_sweet_dreams",
+        "deathcry_doused_lantern",
+        "killmessages_memed",
+        "killeffect_campfire",
+        "deathcry_deflated_toy",
+        "killmessages_honourable",
+        "cage_banana-cage",
+        "killmessages_bbq",
+        "victorydance_meteor_shower",
+        "cage_haunted_fortress",
+        "cage_candy_basket",
+        "killeffect_draculas_flight",
+        "victorydance_graveyardrave",
+        "sprays_spooky_game_over",
+        "sprays_party_crasher",
+        "sprays_monster_under_bed",
+        "sprays_pumpkin_farm",
+        "projectiletrail_wisp_whirlwind",
+        "killeffect_blood_bats",
+        "projectiletrail_howling_wind",
+        "killeffect_skeletalremains",
+        "projectiletrail_spiders_silk",
+        "projectiletrail_cursedflame",
+        "killmessages_fire",
+        "balloon_tire",
+        "balloon_ox",
+        "sprays_year_of_the_rabbit",
+        "sprays_lantern",
+        "sprays_lion_dancer",
+        "sprays_essentials",
+        "victorydance_raining_pigs",
+        "sprays_fishin_noobs",
+        "projectiletrail_trick_or_treat",
+        "projectiletrail_twin_dragon",
+        "kit_advanced_solo_guardian",
+        "sprays_sleep_well",
+        "killeffect_jazz",
+        "sprays_rat_costume",
+        "kit_attacking_team_jester",
+        "kit_mining_team_cannoneer",
+        "kit_advanced_solo_engineer",
+        "cage_flamingo",
+        "cage_red_parrot",
+        "projectiletrail_sparkler",
+        "sprays_ice_scream_cart",
+        "sprays_jerry_island_poster",
+        "sprays_cooler_climates",
+        "sprays_undead_lifesaving_association",
+        "cage_treasure_chest"
+      ],
+      "cages": [
+        "sky",
+        "orange",
+        "bubblegum",
+        "green",
+        "toffee",
+        "rage",
+        "cloud",
+        "dark",
+        "mist",
+        "void",
+        "royal",
+        "premium",
+        "lime",
+        "banana"
+      ],
+      "kits": {
+        "kits": [
+          {
+            "kitData": [
+              "kit_advanced_solo_knight",
+              "advanced",
+              "solo",
+              "knight"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "knight"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_enchanter",
+              "advanced",
+              "solo",
+              "enchanter"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "enchanter"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_grenade",
+              "basic",
+              "solo",
+              "grenade"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "grenade"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_healer",
+              "basic",
+              "solo",
+              "healer"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "healer"
+          },
+          {
+            "kitData": [
+              "kit_defending_team_disco",
+              "defending",
+              "team",
+              "disco"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "defending",
+            "kitName": "disco"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_princess",
+              "basic",
+              "solo",
+              "princess"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "princess"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_healer",
+              "supporting",
+              "team",
+              "healer"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "healer"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_scout",
+              "attacking",
+              "team",
+              "scout"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "scout"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_armorsmith",
+              "supporting",
+              "team",
+              "armorsmith"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "armorsmith"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_batguy",
+              "basic",
+              "solo",
+              "batguy"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "batguy"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_armorsmith",
+              "basic",
+              "solo",
+              "armorsmith"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "armorsmith"
+          },
+          {
+            "kitData": [
+              "kit_defending_team_batguy",
+              "defending",
+              "team",
+              "batguy"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "defending",
+            "kitName": "batguy"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_scout",
+              "basic",
+              "solo",
+              "scout"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "scout"
+          },
+          {
+            "kitData": [
+              "kit_defending_team_frog",
+              "defending",
+              "team",
+              "frog"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "defending",
+            "kitName": "frog"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_knight",
+              "attacking",
+              "team",
+              "knight"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "knight"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_disco",
+              "basic",
+              "solo",
+              "disco"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "disco"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_armorer",
+              "advanced",
+              "solo",
+              "armorer"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "armorer"
+          },
+          {
+            "kitData": [
+              "kit_enderchest_solo_enderchest",
+              "enderchest",
+              "solo",
+              "enderchest"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "enderchest",
+            "kitName": "enderchest"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_energix",
+              "attacking",
+              "team",
+              "energix"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "energix"
+          },
+          {
+            "kitData": [
+              "kit_defending_team_cactus",
+              "defending",
+              "team",
+              "cactus"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "defending",
+            "kitName": "cactus"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_rookie",
+              "supporting",
+              "team",
+              "rookie"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "rookie"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_warlock",
+              "supporting",
+              "team",
+              "warlock"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "warlock"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_rookie",
+              "basic",
+              "solo",
+              "rookie"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "rookie"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_cactus",
+              "basic",
+              "solo",
+              "cactus"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "cactus"
+          },
+          {
+            "kitData": [
+              "kit_defending_team_armorer",
+              "defending",
+              "team",
+              "armorer"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "defending",
+            "kitName": "armorer"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_grenade",
+              "attacking",
+              "team",
+              "grenade"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "grenade"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_snowman",
+              "basic",
+              "solo",
+              "snowman"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "snowman"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_ecologist",
+              "supporting",
+              "team",
+              "ecologist"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "ecologist"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_pyro",
+              "advanced",
+              "solo",
+              "pyro"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "pyro"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_ecologist",
+              "basic",
+              "solo",
+              "ecologist"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "ecologist"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_energix",
+              "basic",
+              "solo",
+              "energix"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "energix"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_sloth",
+              "attacking",
+              "team",
+              "sloth"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "sloth"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_enderman",
+              "advanced",
+              "solo",
+              "enderman"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "enderman"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_sloth",
+              "advanced",
+              "solo",
+              "sloth"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "sloth"
+          },
+          {
+            "kitData": [
+              "kit_basic_solo_frog",
+              "basic",
+              "solo",
+              "frog"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "basic",
+            "kitName": "frog"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_jester",
+              "advanced",
+              "solo",
+              "jester"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "jester"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_pharaoh",
+              "supporting",
+              "team",
+              "pharaoh"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "pharaoh"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_slime",
+              "attacking",
+              "team",
+              "slime"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "slime"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_zookeeper",
+              "advanced",
+              "solo",
+              "zookeeper"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "zookeeper"
+          },
+          {
+            "kitData": [
+              "kit_enderchest_team_enderchest",
+              "enderchest",
+              "team",
+              "enderchest"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "enderchest",
+            "kitName": "enderchest"
+          },
+          {
+            "kitData": [
+              "kit_supporting_team_troll",
+              "supporting",
+              "team",
+              "troll"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "supporting",
+            "kitName": "troll"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_snowman",
+              "attacking",
+              "team",
+              "snowman"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "snowman"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_cannoneer",
+              "advanced",
+              "solo",
+              "cannoneer"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "cannoneer"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_guardian",
+              "advanced",
+              "solo",
+              "guardian"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "guardian"
+          },
+          {
+            "kitData": [
+              "kit_attacking_team_jester",
+              "attacking",
+              "team",
+              "jester"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "attacking",
+            "kitName": "jester"
+          },
+          {
+            "kitData": [
+              "kit_mining_team_cannoneer",
+              "mining",
+              "team",
+              "cannoneer"
+            ],
+            "isKit": true,
+            "gameMode": "team",
+            "kitType": "mining",
+            "kitName": "cannoneer"
+          },
+          {
+            "kitData": [
+              "kit_advanced_solo_engineer",
+              "advanced",
+              "solo",
+              "engineer"
+            ],
+            "isKit": true,
+            "gameMode": "solo",
+            "kitType": "advanced",
+            "kitName": "engineer"
+          }
+        ]
+      },
+      "achievements": []
+    }
+  },
+  "bedwars": {
+    "tokens": 346919,
+    "level": 138,
+    "experience": 665061,
+    "prestige": "Iron",
+    "playedGames": 2236,
+    "wins": 493,
+    "winstreak": 1,
+    "kills": 3780,
+    "finalKills": 1572,
+    "losses": 1742,
+    "deaths": 6524,
+    "finalDeaths": 1717,
+    "collectedItemsTotal": {
+      "iron": 346964,
+      "gold": 38621,
+      "diamond": 4249,
+      "emerald": 2886
+    },
+    "beds": {
+      "lost": 1660,
+      "broken": 812,
+      "BLRatio": 0.49
+    },
+    "avg": {
+      "kills": 1.69,
+      "finalKills": 0.7,
+      "bedsBroken": 0.36
+    },
+    "KDRatio": 0.58,
+    "finalKDRatio": 0.92,
+    "WLRatio": 0.28,
+    "solo": {
+      "winstreak": 0,
+      "playedGames": 269,
+      "kills": 269,
+      "deaths": 560,
+      "wins": 16,
+      "losses": 253,
+      "finalKills": 118,
+      "finalDeaths": 236,
+      "beds": {
+        "broken": 182,
+        "lost": 225,
+        "BLRatio": 0.81
+      },
+      "avg": {
+        "kills": 1,
+        "finalKills": 0.44,
+        "bedsBroken": 0.68
+      },
+      "KDRatio": 0.48,
+      "WLRatio": 0.06,
+      "finalKDRatio": 0.5
+    },
+    "doubles": {
+      "winstreak": 0,
+      "playedGames": 409,
+      "kills": 569,
+      "deaths": 1064,
+      "wins": 29,
+      "losses": 379,
+      "finalKills": 227,
+      "finalDeaths": 366,
+      "beds": {
+        "broken": 169,
+        "lost": 364,
+        "BLRatio": 0.46
+      },
+      "avg": {
+        "kills": 1.39,
+        "finalKills": 0.56,
+        "bedsBroken": 0.41
+      },
+      "KDRatio": 0.53,
+      "WLRatio": 0.08,
+      "finalKDRatio": 0.62
+    },
+    "threes": {
+      "winstreak": 0,
+      "playedGames": 201,
+      "kills": 382,
+      "deaths": 600,
+      "wins": 35,
+      "losses": 166,
+      "finalKills": 139,
+      "finalDeaths": 162,
+      "beds": {
+        "broken": 64,
+        "lost": 157,
+        "BLRatio": 0.41
+      },
+      "avg": {
+        "kills": 1.9,
+        "finalKills": 0.69,
+        "bedsBroken": 0.32
+      },
+      "KDRatio": 0.64,
+      "WLRatio": 0.21,
+      "finalKDRatio": 0.86
+    },
+    "fours": {
+      "winstreak": 1,
+      "playedGames": 1125,
+      "kills": 2176,
+      "deaths": 3626,
+      "wins": 250,
+      "losses": 875,
+      "finalKills": 872,
+      "finalDeaths": 880,
+      "beds": {
+        "broken": 315,
+        "lost": 848,
+        "BLRatio": 0.37
+      },
+      "avg": {
+        "kills": 1.93,
+        "finalKills": 0.78,
+        "bedsBroken": 0.28
+      },
+      "KDRatio": 0.6,
+      "WLRatio": 0.29,
+      "finalKDRatio": 0.99
+    },
+    "4v4": {
+      "winstreak": 6,
+      "playedGames": 232,
+      "kills": 384,
+      "deaths": 674,
+      "wins": 163,
+      "losses": 69,
+      "finalKills": 216,
+      "finalDeaths": 73,
+      "beds": {
+        "broken": 82,
+        "lost": 66,
+        "BLRatio": 1.24
+      },
+      "avg": {
+        "kills": 1.66,
+        "finalKills": 0.93,
+        "bedsBroken": 0.35
+      },
+      "KDRatio": 0.57,
+      "WLRatio": 2.36,
+      "finalKDRatio": 2.96
+    },
+    "dream": {
+      "voidless": {
+        "doubles": {
+          "winstreak": 0,
+          "playedGames": 2,
+          "kills": 0,
+          "deaths": 1,
+          "wins": 0,
+          "losses": 2,
+          "finalKills": 0,
+          "finalDeaths": 2,
+          "beds": {
+            "broken": 0,
+            "lost": 2,
+            "BLRatio": 0
+          },
+          "avg": {
+            "kills": 0,
+            "finalKills": 0,
+            "bedsBroken": 0
+          },
+          "KDRatio": 0,
+          "WLRatio": 0,
+          "finalKDRatio": 0
+        },
+        "fours": {
+          "winstreak": 10,
+          "playedGames": 14,
+          "kills": 14,
+          "deaths": 28,
+          "wins": 11,
+          "losses": 3,
+          "finalKills": 15,
+          "finalDeaths": 5,
+          "beds": {
+            "broken": 7,
+            "lost": 7,
+            "BLRatio": 1
+          },
+          "avg": {
+            "kills": 1,
+            "finalKills": 1.07,
+            "bedsBroken": 0.5
+          },
+          "KDRatio": 0.5,
+          "WLRatio": 3.67,
+          "finalKDRatio": 3
+        }
+      },
+      "lucky": {
+        "doubles": {
+          "winstreak": 0,
+          "playedGames": 4,
+          "kills": 1,
+          "deaths": 8,
+          "wins": 0,
+          "losses": 4,
+          "finalKills": 0,
+          "finalDeaths": 3,
+          "beds": {
+            "broken": 0,
+            "lost": 3,
+            "BLRatio": 0
+          },
+          "avg": {
+            "kills": 0.25,
+            "finalKills": 0,
+            "bedsBroken": 0
+          },
+          "KDRatio": 0.13,
+          "WLRatio": 0,
+          "finalKDRatio": 0
+        },
+        "fours": {
+          "winstreak": 10,
+          "playedGames": 12,
+          "kills": 8,
+          "deaths": 36,
+          "wins": 10,
+          "losses": 2,
+          "finalKills": 13,
+          "finalDeaths": 3,
+          "beds": {
+            "broken": 3,
+            "lost": 3,
+            "BLRatio": 1
+          },
+          "avg": {
+            "kills": 0.67,
+            "finalKills": 1.08,
+            "bedsBroken": 0.25
+          },
+          "KDRatio": 0.22,
+          "WLRatio": 5,
+          "finalKDRatio": 4.33
+        }
+      },
+      "armed": {
+        "doubles": {
+          "winstreak": 0,
+          "playedGames": 1,
+          "kills": 0,
+          "deaths": 3,
+          "wins": 0,
+          "losses": 1,
+          "finalKills": 0,
+          "finalDeaths": 0,
+          "beds": {
+            "broken": 0,
+            "lost": 0,
+            "BLRatio": 0
+          },
+          "avg": {
+            "kills": 0,
+            "finalKills": 0,
+            "bedsBroken": 0
+          },
+          "KDRatio": 0,
+          "WLRatio": 0,
+          "finalKDRatio": 0
+        },
+        "fours": {
+          "winstreak": 1,
+          "playedGames": 19,
+          "kills": 40,
+          "deaths": 77,
+          "wins": 2,
+          "losses": 17,
+          "finalKills": 5,
+          "finalDeaths": 15,
+          "beds": {
+            "broken": 1,
+            "lost": 15,
+            "BLRatio": 0.07
+          },
+          "avg": {
+            "kills": 2.11,
+            "finalKills": 0.26,
+            "bedsBroken": 0.05
+          },
+          "KDRatio": 0.52,
+          "WLRatio": 0.12,
+          "finalKDRatio": 0.33
+        }
+      },
+      "rush": {
+        "doubles": {
+          "winstreak": 0,
+          "playedGames": 1,
+          "kills": 2,
+          "deaths": 2,
+          "wins": 0,
+          "losses": 1,
+          "finalKills": 1,
+          "finalDeaths": 1,
+          "beds": {
+            "broken": 0,
+            "lost": 1,
+            "BLRatio": 0
+          },
+          "avg": {
+            "kills": 2,
+            "finalKills": 1,
+            "bedsBroken": 0
+          },
+          "KDRatio": 1,
+          "WLRatio": 0,
+          "finalKDRatio": 1
+        },
+        "fours": {
+          "winstreak": 2,
+          "playedGames": 5,
+          "kills": 4,
+          "deaths": 16,
+          "wins": 3,
+          "losses": 2,
+          "finalKills": 5,
+          "finalDeaths": 2,
+          "beds": {
+            "broken": 1,
+            "lost": 3,
+            "BLRatio": 0.33
+          },
+          "avg": {
+            "kills": 0.8,
+            "finalKills": 1,
+            "bedsBroken": 0.2
+          },
+          "KDRatio": 0.25,
+          "WLRatio": 1.5,
+          "finalKDRatio": 2.5
+        }
+      },
+      "ultimate": {
+        "doubles": {
+          "winstreak": 0,
+          "playedGames": 13,
+          "kills": 9,
+          "deaths": 18,
+          "wins": 0,
+          "losses": 13,
+          "finalKills": 7,
+          "finalDeaths": 11,
+          "beds": {
+            "broken": 0,
+            "lost": 12,
+            "BLRatio": 0
+          },
+          "avg": {
+            "kills": 0.69,
+            "finalKills": 0.54,
+            "bedsBroken": 0
+          },
+          "KDRatio": 0.5,
+          "WLRatio": 0,
+          "finalKDRatio": 0.64
+        },
+        "fours": {
+          "winstreak": 1,
+          "playedGames": 28,
+          "kills": 17,
+          "deaths": 59,
+          "wins": 19,
+          "losses": 9,
+          "finalKills": 32,
+          "finalDeaths": 12,
+          "beds": {
+            "broken": 11,
+            "lost": 17,
+            "BLRatio": 0.65
+          },
+          "avg": {
+            "kills": 0.61,
+            "finalKills": 1.14,
+            "bedsBroken": 0.39
+          },
+          "KDRatio": 0.29,
+          "WLRatio": 2.11,
+          "finalKDRatio": 2.67
+        }
+      }
+    },
+    "castle": {
+      "winstreak": 1,
+      "playedGames": 9,
+      "kills": 12,
+      "deaths": 39,
+      "wins": 5,
+      "losses": 5,
+      "finalKills": 1,
+      "finalDeaths": 5,
+      "beds": {
+        "broken": 0,
+        "lost": 20,
+        "BLRatio": 0
+      },
+      "avg": {
+        "kills": 1.33,
+        "finalKills": 0.11,
+        "bedsBroken": 0
+      },
+      "KDRatio": 0.31,
+      "WLRatio": 1,
+      "finalKDRatio": 0.2
+    },
+    "practice": {
+      "selected": "BRIDGING",
+      "bridging": {
+        "blocksPlaced": 3885,
+        "attempts": {
+          "failed": 1098,
+          "successful": 18,
+          "total": 1116
+        },
+        "records": {
+          "blocks30": {
+            "elevation": {
+              "none": {
+                "straight": 10149,
+                "diagonal": 0
+              },
+              "slight": {
+                "straight": 0,
+                "diagonal": 0
+              },
+              "staircase": {
+                "straight": 0,
+                "diagonal": 0
+              }
+            }
+          },
+          "blocks50": {
+            "elevation": {
+              "none": {
+                "straight": 0,
+                "diagonal": 0
+              },
+              "slight": {
+                "straight": 0,
+                "diagonal": 0
+              },
+              "staircase": {
+                "straight": 0,
+                "diagonal": 0
+              }
+            }
+          },
+          "blocks100": {
+            "elevation": {
+              "none": {
+                "straight": 0,
+                "diagonal": 0
+              },
+              "slight": {
+                "straight": 0,
+                "diagonal": 0
+              },
+              "staircase": {
+                "straight": 0,
+                "diagonal": 0
+              }
+            }
+          }
+        }
+      },
+      "fireballJumping": {
+        "blocksPlaced": 0,
+        "attempts": {
+          "failed": 0,
+          "successful": 0,
+          "total": null
+        }
+      },
+      "pearlClutching": {
+        "attempts": {
+          "failed": 1,
+          "successful": 7,
+          "total": 8
+        }
+      },
+      "mlg": {
+        "blocksPlaced": 23,
+        "attempts": {
+          "failed": 112,
+          "successful": 46,
+          "total": 158
+        }
+      }
+    },
+    "slumberTickets": 24,
+    "totalSlumberTicket": 0
+  },
+  "uhc": {
+    "coins": 38240,
+    "score": 0,
+    "kills": 0,
+    "deaths": 3,
+    "KDRatio": 0,
+    "wins": 0,
+    "headsEaten": 0,
+    "starLevel": 1,
+    "solo": {
+      "kills": 0,
+      "deaths": 3,
+      "wins": 0,
+      "headsEaten": 0
+    },
+    "team": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "headsEaten": 0
+    },
+    "redVsBlue": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "headsEaten": 0
+    },
+    "noDiamond": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "headsEaten": 0
+    },
+    "brawl": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "headsEaten": 0
+    },
+    "soloBrawl": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "headsEaten": 0
+    },
+    "duoBrawl": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "headsEaten": 0
+    }
+  },
+  "speeduhc": {
+    "coins": 0,
+    "kills": 0,
+    "deaths": 2,
+    "KDRatio": 0,
+    "wins": 0,
+    "losses": 2,
+    "WLRatio": 0,
+    "playedGames": 0,
+    "winstreak": 0,
+    "killstreak": 0,
+    "blocksBroken": 1115,
+    "blocksPlaced": 3,
+    "quits": 2,
+    "itemsEnchanted": 0,
+    "assists": 0,
+    "solo": {
+      "kills": 0,
+      "deaths": 2,
+      "wins": 0,
+      "losses": 2,
+      "playedGames": 0,
+      "winStreak": 0,
+      "killStreak": 0,
+      "assists": 0
+    },
+    "teams": {
+      "kills": 0,
+      "deaths": 0,
+      "wins": 0,
+      "losses": 0,
+      "playedGames": 0,
+      "winStreak": 0,
+      "killStreak": 0,
+      "assists": 0
+    }
+  },
+  "murdermystery": {
+    "tokens": 121341,
+    "playedGames": 68,
+    "kills": 58,
+    "deaths": 37,
+    "KDRatio": 1.57,
+    "winsAsMurderer": 2,
+    "winsAsDetective": 2,
+    "wins": 49,
+    "assassins": {
+      "kills": 2,
+      "deaths": 2,
+      "KDRatio": 1,
+      "wins": 1,
+      "playedGames": 3
+    },
+    "doubleUp": {
+      "kills": 15,
+      "deaths": 4,
+      "KDRatio": 3.75,
+      "wins": 5,
+      "playedGames": 7
+    },
+    "infection": {
+      "kills": 0,
+      "deaths": 0,
+      "KDRatio": 0,
+      "wins": 0,
+      "playedGames": 1
+    }
+  },
+  "duels": {
+    "tokens": 509440,
+    "division": "Master I",
+    "kills": 12706,
+    "deaths": 13717,
+    "KDRatio": 0.93,
+    "wins": 2142,
+    "losses": 2018,
+    "WLRatio": 1.06,
+    "playedGames": 4586,
+    "winstreak": 9,
+    "bestWinstreak": 17,
+    "uhc": {
+      "overall": {
+        "division": "Rookie I",
+        "winstreak": 1,
+        "bestWinstreak": 10,
+        "kills": 50,
+        "deaths": 71,
+        "KDRatio": 0.7,
+        "wins": 52,
+        "losses": 67,
+        "WLRatio": 0.78,
+        "playedGames": 137
+      },
+      "1v1": {
+        "division": "Rookie I",
+        "winstreak": 3,
+        "bestWinstreak": 3,
+        "kills": 16,
+        "deaths": 33,
+        "KDRatio": 0.48,
+        "wins": 16,
+        "losses": 33,
+        "WLRatio": 0.48,
+        "playedGames": 66
+      },
+      "2v2": {
+        "division": "Rookie I",
+        "winstreak": 1,
+        "bestWinstreak": 10,
+        "kills": 34,
+        "deaths": 34,
+        "KDRatio": 1,
+        "wins": 36,
+        "losses": 30,
+        "WLRatio": 1.2,
+        "playedGames": 66
+      },
+      "4v4": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0,
+        "playedGames": 0
+      },
+      "meetup": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 0,
+        "kills": 0,
+        "deaths": 4,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 4,
+        "WLRatio": 0,
+        "playedGames": 5
+      }
+    },
+    "parkour": {
+      "division": "Rookie I",
+      "deaths": 0,
+      "wins": 0,
+      "losses": 3,
+      "WLRatio": 0,
+      "playedGames": 3
+    },
+    "boxing": {
+      "division": "Rookie I",
+      "kills": 0,
+      "wins": 1,
+      "losses": 2,
+      "WLRatio": 0.5,
+      "playedGames": 5,
+      "meleeSwings": 823,
+      "meleeHits": 333
+    },
+    "bowspleef": {
+      "division": "Rookie IV",
+      "winstreak": 0,
+      "bestWinstreak": 10,
+      "bowShots": 7339,
+      "deaths": 83,
+      "wins": 86,
+      "losses": 83,
+      "WLRatio": 1.04,
+      "playedGames": 170
+    },
+    "arena": {
+      "kills": 0,
+      "deaths": 0,
+      "KDRatio": 0,
+      "wins": 1,
+      "losses": 0,
+      "WLRatio": 1,
+      "playedGames": 3
+    },
+    "megawalls": {
+      "division": "Rookie I",
+      "winstreak": 0,
+      "bestWinstreak": 0,
+      "kills": 1,
+      "deaths": 3,
+      "KDRatio": 0.33,
+      "wins": 1,
+      "losses": 3,
+      "WLRatio": 0.33,
+      "playedGames": 4
+    },
+    "op": {
+      "overall": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 1,
+        "kills": 3,
+        "deaths": 11,
+        "KDRatio": 0.27,
+        "wins": 2,
+        "losses": 11,
+        "WLRatio": 0.18,
+        "playedGames": 13
+      },
+      "1v1": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 1,
+        "kills": 2,
+        "deaths": 7,
+        "KDRatio": 0.29,
+        "wins": 2,
+        "losses": 7,
+        "WLRatio": 0.29,
+        "playedGames": 9
+      },
+      "2v2": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 0,
+        "kills": 1,
+        "deaths": 4,
+        "KDRatio": 0.25,
+        "wins": 0,
+        "losses": 4,
+        "WLRatio": 0,
+        "playedGames": 4
+      }
+    },
+    "skywars": {
+      "overall": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 4,
+        "kills": 22,
+        "deaths": 54,
+        "KDRatio": 0.41,
+        "wins": 24,
+        "losses": 53,
+        "WLRatio": 0.45,
+        "playedGames": 321
+      },
+      "1v1": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 4,
+        "kills": 17,
+        "deaths": 43,
+        "KDRatio": 0.4,
+        "wins": 20,
+        "losses": 43,
+        "WLRatio": 0.47,
+        "playedGames": 306
+      },
+      "2v2": {
+        "division": "Rookie I",
+        "winstreak": 0,
+        "bestWinstreak": 2,
+        "kills": 5,
+        "deaths": 11,
+        "KDRatio": 0.45,
+        "wins": 4,
+        "losses": 10,
+        "WLRatio": 0.4,
+        "playedGames": 15
+      }
+    },
+    "sumo": {
+      "division": "Rookie I",
+      "winstreak": 0,
+      "bestWinstreak": 3,
+      "kills": 12,
+      "deaths": 101,
+      "KDRatio": 0.12,
+      "wins": 13,
+      "losses": 101,
+      "WLRatio": 0.13,
+      "playedGames": 126
+    },
+    "classic": {
+      "division": "Rookie V",
+      "winstreak": 0,
+      "bestWinstreak": 4,
+      "kills": 100,
+      "deaths": 205,
+      "KDRatio": 0.49,
+      "wins": 97,
+      "losses": 202,
+      "WLRatio": 0.48,
+      "playedGames": 329
+    },
+    "combo": {
+      "division": "Rookie I",
+      "winstreak": 0,
+      "bestWinstreak": 0,
+      "kills": 0,
+      "deaths": 2,
+      "KDRatio": 0,
+      "wins": 0,
+      "losses": 2,
+      "WLRatio": 0,
+      "playedGames": 2
+    },
+    "bridge": {
+      "overall": {
+        "division": "Gold V",
+        "winstreak": 2,
+        "bestWinstreak": 12,
+        "kills": 5559,
+        "deaths": 6207,
+        "KDRatio": 0.9,
+        "wins": 458,
+        "losses": 720,
+        "WLRatio": 0.62,
+        "playedGames": 1204,
+        "goals": 1500
+      },
+      "1v1": {
+        "division": "Gold V",
+        "winstreak": 0,
+        "bestWinstreak": 7,
+        "kills": 260,
+        "deaths": 429,
+        "KDRatio": 0.61,
+        "wins": 30,
+        "losses": 64,
+        "WLRatio": 0.47,
+        "playedGames": 135,
+        "goals": 128
+      },
+      "2v2": {
+        "division": "Gold V",
+        "winstreak": 2,
+        "bestWinstreak": 12,
+        "kills": 5169,
+        "deaths": 5620,
+        "KDRatio": 0.92,
+        "wins": 409,
+        "losses": 656,
+        "WLRatio": 0.62,
+        "playedGames": 1065,
+        "goals": 1364
+      },
+      "3v3": {
+        "division": "Gold V",
+        "winstreak": 1,
+        "bestWinstreak": 6,
+        "kills": 117,
+        "deaths": 142,
+        "KDRatio": 0.82,
+        "wins": 15,
+        "losses": 10,
+        "WLRatio": 1.5,
+        "playedGames": 25,
+        "goals": 55
+      },
+      "2v2v2v2": {
+        "division": "Gold V",
+        "winstreak": 0,
+        "bestWinstreak": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0,
+        "playedGames": 0,
+        "goals": 0
+      },
+      "3v3v3v3": {
+        "division": "Gold V",
+        "winstreak": 0,
+        "bestWinstreak": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0,
+        "playedGames": 0,
+        "goals": 0
+      },
+      "4v4": {
+        "division": "Gold V",
+        "winstreak": 3,
+        "bestWinstreak": 3,
+        "kills": 13,
+        "deaths": 16,
+        "KDRatio": 0.81,
+        "wins": 4,
+        "losses": 0,
+        "WLRatio": 4,
+        "playedGames": 4,
+        "goals": 8
+      },
+      "ctf": {
+        "division": "Gold V",
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0,
+        "captures": 0,
+        "playedGames": 0,
+        "goals": 0
+      }
+    },
+    "blitz": {
+      "division": "Master III",
+      "winstreak": 9,
+      "bestWinstreak": 17,
+      "kills": 1399,
+      "deaths": 768,
+      "KDRatio": 1.82,
+      "wins": 1406,
+      "losses": 756,
+      "WLRatio": 1.86,
+      "playedGames": 2212
+    },
+    "nodebuff": {
+      "division": "Rookie I",
+      "winstreak": 0,
+      "bestWinstreak": 0,
+      "kills": 1,
+      "deaths": 2,
+      "KDRatio": 0.5,
+      "wins": 1,
+      "losses": 2,
+      "WLRatio": 0.5,
+      "playedGames": 3
+    },
+    "bow": {
+      "division": "Rookie I",
+      "winstreak": 0,
+      "bestWinstreak": 0,
+      "kills": 0,
+      "deaths": 3,
+      "KDRatio": 0,
+      "wins": 0,
+      "losses": 3,
+      "WLRatio": 0,
+      "playedGames": 6
+    }
+  },
+  "buildbattle": {
+    "score": 625,
+    "playedGames": 52,
+    "coins": 38020,
+    "totalVotes": 400,
+    "totalWins": 2,
+    "wins": {
+      "solo": 1,
+      "team": 1,
+      "pro": 0,
+      "gtb": 0
+    }
+  },
+  "megawalls": {
+    "selectedClass": "Cow",
+    "coins": 41295,
+    "kills": 3,
+    "assists": 9,
+    "deaths": 36,
+    "KDRatio": 0.08,
+    "wins": 1,
+    "losses": 6,
+    "WLRatio": 0.17,
+    "finalKills": 0,
+    "finalAssists": 0,
+    "finalDeaths": 4,
+    "finalKDRatio": 0,
+    "playedGames": 7,
+    "witherDamage": 13,
+    "defenderKills": 1,
+    "mode": {
+      "normal": {
+        "kills": 3,
+        "deaths": 36,
+        "KDRatio": 0.08,
+        "wins": 1,
+        "losses": 6,
+        "WLRatio": 0.17
+      },
+      "faceoff": {
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      },
+      "casualBrawl": {
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      }
+    }
+  },
+  "copsandcrims": {
+    "coins": 79473,
+    "kills": 8,
+    "deaths": 38,
+    "KDRatio": 0.21,
+    "wins": 3,
+    "roundWins": 25,
+    "shotsFired": 1292,
+    "headshotKills": 19,
+    "bombsDefused": 0,
+    "bombsPlanted": 1,
+    "killsAsCrim": 3,
+    "killsAsCop": 5,
+    "deathmatch": {
+      "kills": 15,
+      "deaths": 37,
+      "KDRatio": 0.41,
+      "killsAsCrim": 13,
+      "killsAsCop": 2
+    }
+  },
+  "tntgames": {
+    "coins": 44093,
+    "winstreak": 0,
+    "wins": 1,
+    "tntrun": {
+      "wins": 0,
+      "deaths": 17,
+      "KDRatio": 0,
+      "record": 128
+    },
+    "pvprun": {
+      "kills": 0,
+      "wins": 0,
+      "deaths": 1,
+      "KDRatio": 0,
+      "record": 45
+    },
+    "tnttag": {
+      "kills": 0,
+      "wins": 0,
+      "speed": 0
+    },
+    "bowspleef": {
+      "wins": 0,
+      "tags": 19,
+      "deaths": 1
+    },
+    "wizards": {
+      "points": 0,
+      "class": null,
+      "kills": 4,
+      "assists": 4,
+      "wins": 1,
+      "deaths": 2,
+      "KDRatio": 2
+    }
+  },
+  "smashheroes": {
+    "coins": 60495,
+    "level": 0,
+    "winstreak": 0,
+    "playedGames": 1,
+    "kills": 0,
+    "deaths": 0,
+    "KDRatio": 0,
+    "wins": 0,
+    "losses": 0,
+    "WLRatio": 0,
+    "mode": {
+      "1v1v1v1": {
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      },
+      "2v2": {
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      },
+      "2v2v2": {
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      }
+    },
+    "activeClass": "BOTMUN",
+    "heroStats": [
+      {
+        "name": "GENERAL_CLUCK",
+        "level": 0,
+        "xp": 0,
+        "prestige": 0,
+        "playedGames": 1,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      }
+    ]
+  },
+  "vampirez": {
+    "coins": 43603,
+    "human": {
+      "kills": 0,
+      "deaths": 0,
+      "KDRatio": 0,
+      "wins": 0
+    },
+    "zombie": {
+      "kills": 0
+    },
+    "vampire": {
+      "kills": 0,
+      "deaths": 4,
+      "KDRatio": 0
+    }
+  },
+  "blitzsg": {
+    "coins": 65982,
+    "kills": 4,
+    "deaths": 24,
+    "KDRatio": 0.17,
+    "winsSolo": 0,
+    "winsTeam": 0,
+    "kitStats": []
+  },
+  "arena": {
+    "coins": 65630,
+    "mode": {
+      "1v1": {
+        "kills": 0,
+        "deaths": 1,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 1,
+        "WLRatio": 0
+      },
+      "2v2": {
+        "kills": 0,
+        "deaths": 1,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 1,
+        "WLRatio": 0
+      },
+      "4v4": {
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "wins": 0,
+        "losses": 0,
+        "WLRatio": 0
+      }
+    }
+  },
+  "arcade": {
+    "coins": 3231940,
+    "weeklyCoins": 0,
+    "monthlyCoins": 0,
+    "hintsDisabled": true,
+    "flashDisabled": true,
+    "drawTheirThing": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "dragonWars": {
+      "wins": 0,
+      "kills": 9,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "easterSimulator": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0,
+      "eggsFound": 0
+    },
+    "grinchSimulator": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0,
+      "giftsFound": 21
+    },
+    "scubaSimulator": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0,
+      "itemsFound": 10
+    },
+    "santaSimulator": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0,
+      "giftsDelivered": 0
+    },
+    "santaSays": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "simonSays": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 8
+    },
+    "farmHunt": {
+      "wins": 1,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "holeInTheWall": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 31,
+      "scoreRecordFinals": 0,
+      "scoreRecordNormal": 70,
+      "scoreRecordOverall": 70
+    },
+    "miniWalls": {
+      "wins": 0,
+      "kills": 12,
+      "deaths": 29,
+      "roundsPlayed": 0,
+      "arrowHits": 6,
+      "arrowShots": 22,
+      "bowAccuracy": 0.27,
+      "finalKills": 1,
+      "witherDamage": 55,
+      "witherKills": 0
+    },
+    "partyGames": {
+      "wins": 2,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "partyGames2": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "partyGames3": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "throwOut": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "soccer": {
+      "wins": 0,
+      "kicks": 0,
+      "powerKicks": 0,
+      "goals": 0
+    },
+    "hypixelSports": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "enderSpleef": {
+      "wins": 0,
+      "kills": 0,
+      "deaths": 0,
+      "roundsPlayed": 0
+    },
+    "blockingDead": {
+      "wins": 2,
+      "kills": 1378,
+      "deaths": 0,
+      "roundsPlayed": 0,
+      "headshots": 743
+    },
+    "galaxyWars": {
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "shotsFired": 97,
+      "weeklyKills": 0,
+      "monthlyKills": 0,
+      "attackerKills": 0,
+      "defenderKills": 4
+    },
+    "oneInTheQuiver": {
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "roundsPlayed": 0,
+      "bountyKills": 0
+    },
+    "oitq": {
+      "wins": 0,
+      "kills": 4,
+      "deaths": 4,
+      "roundsPlayed": 0,
+      "bountyKills": 0
+    },
+    "zombies": {
+      "overall": {
+        "bestRound": 15,
+        "deaths": 3,
+        "doorsOpened": 7,
+        "fastestRound10": 558,
+        "fastestRound20": 0,
+        "fastestRound30": 0,
+        "playersRevived": 4,
+        "timesKnockedDown": 2,
+        "roundsSurvived": 39,
+        "windowsRepaired": 73,
+        "wins": 0,
+        "zombieKills": 342
+      },
+      "deadEnd": {
+        "normal": {
+          "bestRound": 15,
+          "deaths": 2,
+          "doorsOpened": 7,
+          "fastestRound10": 558,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 4,
+          "timesKnockedDown": 2,
+          "roundsSurvived": 30,
+          "windowsRepaired": 73,
+          "wins": 0,
+          "zombieKills": 332
+        },
+        "hard": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "rip": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "overall": {
+          "bestRound": 15,
+          "deaths": 3,
+          "doorsOpened": 7,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 4,
+          "timesKnockedDown": 2,
+          "roundsSurvived": 39,
+          "windowsRepaired": 73,
+          "wins": 0,
+          "zombieKills": 342
+        }
+      },
+      "badBlood": {
+        "normal": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "hard": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "rip": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "overall": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        }
+      },
+      "alienArcadium": {
+        "normal": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "hard": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "rip": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        },
+        "overall": {
+          "bestRound": 0,
+          "deaths": 0,
+          "doorsOpened": 0,
+          "fastestRound10": 0,
+          "fastestRound20": 0,
+          "fastestRound30": 0,
+          "playersRevived": 0,
+          "timesKnockedDown": 0,
+          "roundsSurvived": 0,
+          "windowsRepaired": 0,
+          "wins": 0,
+          "zombieKills": 0
+        }
+      },
+      "killsByZombie": {
+        "basic": 128,
+        "blaze": 4,
+        "empowered": 27,
+        "fire": 26,
+        "magma": 23,
+        "tnt": 2,
+        "wolf": 16
+      },
+      "bulletsHit": 696,
+      "bulletsShot": 921,
+      "gunAccuracy": 0.76,
+      "headshots": 334,
+      "headshotAccuracy": 0.36
+    },
+    "captureTheWool": {
+      "kills": 27,
+      "captures": 0
+    }
+  },
+  "paintball": {
+    "coins": 31771,
+    "kills": 0,
+    "deaths": 21,
+    "KDRatio": 0,
+    "wins": 0,
+    "losses": 0,
+    "WLRatio": 0,
+    "shotsFired": 354,
+    "killstreaks": 1,
+    "forcefieldTime": 0,
+    "hat": "None"
+  },
+  "quakecraft": {
+    "coins": 28473,
+    "kills": 0,
+    "deaths": 19,
+    "KDRatio": 0,
+    "wins": 1,
+    "distanceTravelled": 0,
+    "headshots": 4,
+    "shotsFired": 32,
+    "killstreaks": 0,
+    "highestKillstreak": 2,
+    "solo": {
+      "kills": 0,
+      "deaths": 0,
+      "KDRatio": 0,
+      "wins": 0,
+      "distanceTravelled": 0,
+      "headshots": 0,
+      "shotsFired": 0,
+      "killstreaks": 0
+    },
+    "teams": {
+      "kills": 0,
+      "deaths": 19,
+      "KDRatio": 0,
+      "wins": 1,
+      "distanceTravelled": 2171,
+      "headshots": 4,
+      "shotsFired": 32,
+      "killstreaks": 0
+    }
+  },
+  "turbokartracers": {
+    "coins": 85066,
+    "wins": 1,
+    "completedLaps": 3,
+    "bronzeTrophies": 0,
+    "silverTrophies": 1,
+    "goldTrophies": 0,
+    "boxPickups": 15,
+    "hypixelgpBoxPickups": 0,
+    "retroBoxPickups": 0,
+    "olympusBoxPickups": 0,
+    "canyonBoxPickups": 15,
+    "junglerushBoxPickups": 0,
+    "horn": "DEFAULT",
+    "retroPlays": 0,
+    "hypixelgpPlays": 0,
+    "olympusPlays": 0,
+    "junglerushPlays": 0,
+    "canyonPlays": 1,
+    "retroBronzeTrophies": 0,
+    "retroSilverTrophies": 0,
+    "retroGoldTrophies": 0,
+    "hypixelgpBronzeTrophies": 0,
+    "hypixelgpSilverTrophies": 0,
+    "hypixelgpGoldTrophies": 0,
+    "olympusBronzeTrophies": 0,
+    "olympusSilverTrophies": 0,
+    "olympusGoldTrophies": 0,
+    "junglerushBronzeTrophies": 0,
+    "junglerushSilverTrophies": 0,
+    "junglerushGoldTrophies": 0,
+    "canyonBronzeTrophies": 0,
+    "canyonSilverTrophies": 0,
+    "canyonGoldTrophies": 0,
+    "bananaHitsReceived": 0,
+    "bananaHitsSent": 1,
+    "blueTorpedoHit": 0,
+    "grandPrix": "false",
+    "grandPrixTokens": 0
+  },
+  "walls": {
+    "coins": 46290,
+    "kills": 0,
+    "deaths": 0,
+    "KDRatio": 0,
+    "wins": 0,
+    "losses": 1,
+    "WLRatio": 0,
+    "assists": 0
+  },
+  "warlords": {
+    "coins": 37656,
+    "kills": 4,
+    "deaths": 2,
+    "KDRatio": 2,
+    "wins": 1,
+    "losses": 0,
+    "WLRatio": 1,
+    "winstreak": 1,
+    "assists": 6,
+    "class": "paladin"
+  },
+  "woolwars": {
+    "layers": 1,
+    "xp": 0,
+    "exactLevel": 1,
+    "level": 1,
+    "coins": 0,
+    "selectedClass": "NONE",
+    "stats": {
+      "overall": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      },
+      "assault": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      },
+      "tank": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      },
+      "golem": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      },
+      "swordsman": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      },
+      "engineer": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      },
+      "archer": {
+        "roundWins": 0,
+        "gamesPlayed": 0,
+        "woolsPlaced": 0,
+        "blocksBroken": 0,
+        "placeBreakRatio": 0,
+        "kills": 0,
+        "deaths": 0,
+        "KDRatio": 0,
+        "assists": 0,
+        "powerups": 0
+      }
+    },
+    "ownedCosmetics": [
+      "projectiletrail_twirling_snowflake",
+      "projectiletrail_wisp_whirlwind",
+      "projectiletrail_howling_wind",
+      "projectiletrail_spiders_silk",
+      "projectiletrail_cursedflame",
+      "projectiletrail_sparkler"
+    ],
+    "privateGamesConfig": {}
+  },
+  "pit": {
+    "prestige": 0,
+    "xp": 22165,
+    "level": 0,
+    "kills": 749,
+    "deaths": 1865,
+    "KDRatio": 0.4,
+    "assists": 1748,
+    "maxKillStreak": 9,
+    "playtime": 53100,
+    "joins": 66,
+    "damageReceived": 45891,
+    "damageDealt": 29704,
+    "damageRatio": 0.65,
+    "meleeDamageReceived": 42629,
+    "meleeDamageDealt": 27695,
+    "swordHits": 9150,
+    "leftClicks": 19174,
+    "meleeAccuracy": 0.48,
+    "meleeDamageRatio": 0.65,
+    "bowDamageReceived": 2351,
+    "bowDamageDealt": 1989,
+    "arrowsHit": 880,
+    "arrowsFired": 2447,
+    "bowAccuracy": 0.36,
+    "bowDamageRatio": 0.85,
+    "goldenHeadsEaten": 410
+  }
+}

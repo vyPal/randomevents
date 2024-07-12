@@ -1,0 +1,20 @@
+{
+  "name": "randomevents",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "hypixel-api-reborn": "^11.2.1",
+    "mongoose": "^8.5.0"
+  },
+  "scripts": {
+    "start": "bun index.ts",
+    "register": "bun register.ts"
+  }
+}

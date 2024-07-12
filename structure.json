@@ -1,0 +1,153 @@
+{
+  "skywars": {
+    "__keys": [
+      "kills",
+      "losses",
+      "deaths",
+      "wins",
+      "level",
+      "playedGames"
+    ],
+    "solo": {
+      "overall": {
+        "__keys": [
+          "playedGames",
+          "kills",
+          "wins",
+          "losses",
+          "deaths"
+        ]
+      }
+    },
+    "team": {
+      "overall": {
+        "__keys": [
+          "playedGames",
+          "kills",
+          "wins",
+          "losses",
+          "deaths"
+        ]
+      }
+    }
+  },
+  "bedwars": {
+    "__keys": [
+      "level",
+      "playedGames",
+      "wins",
+      "kills",
+      "finalKills",
+      "losses",
+      "deaths",
+      "finalDeaths"
+    ],
+    "beds": {
+      "__keys": [
+        "lost",
+        "broken"
+      ]
+    },
+    "solo": {
+      "__keys": [
+        "playedGames",
+        "kills",
+        "deaths",
+        "wins",
+        "losses",
+        "finalKills",
+        "finalDeaths"
+      ],
+      "beds": {
+        "__keys": [
+          "broken",
+          "lost"
+        ]
+      }
+    },
+    "doubles": {
+      "__keys": [
+        "playedGames",
+        "kills",
+        "deaths",
+        "wins",
+        "losses",
+        "finalKills",
+        "finalDeaths"
+      ],
+      "beds": {
+        "__keys": [
+          "broken",
+          "lost"
+        ]
+      }
+    },
+    "threes": {
+      "__keys": [
+        "playedGames",
+        "kills",
+        "deaths",
+        "wins",
+        "losses",
+        "finalKills",
+        "finalDeaths"
+      ],
+      "beds": {
+        "__keys": [
+          "broken",
+          "lost"
+        ]
+      }
+    },
+    "fours": {
+      "__keys": [
+        "playedGames",
+        "kills",
+        "deaths",
+        "wins",
+        "losses",
+        "finalKills",
+        "finalDeaths"
+      ],
+      "beds": {
+        "__keys": [
+          "broken",
+          "lost"
+        ]
+      }
+    },
+    "4v4": {
+      "__keys": [
+        "playedGames",
+        "kills",
+        "deaths",
+        "wins",
+        "losses",
+        "finalKills",
+        "finalDeaths"
+      ],
+      "beds": {
+        "__keys": [
+          "broken",
+          "lost"
+        ]
+      }
+    }
+  },
+  "duels": {
+    "__keys": [
+      "wins",
+      "losses"
+    ]
+  },
+  "pit": {
+    "__keys": [
+      "kills",
+      "deaths",
+      "assists",
+      "damageReceived",
+      "damageDealt",
+      "meleeAccuracy"
+    ]
+  }
+}

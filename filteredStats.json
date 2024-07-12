@@ -1,0 +1,119 @@
+{
+  "skywars": {
+    "kills": 906,
+    "losses": 1308,
+    "deaths": 1315,
+    "wins": 68,
+    "level": 7,
+    "playedGames": 216,
+    "solo": {
+      "overall": {
+        "playedGames": 189,
+        "kills": 720,
+        "wins": 53,
+        "losses": 1006,
+        "deaths": 1006
+      }
+    },
+    "team": {
+      "overall": {
+        "playedGames": 26,
+        "kills": 170,
+        "wins": 10,
+        "losses": 250,
+        "deaths": 257
+      }
+    }
+  },
+  "bedwars": {
+    "level": 138,
+    "playedGames": 2236,
+    "wins": 493,
+    "kills": 3780,
+    "finalKills": 1572,
+    "losses": 1742,
+    "deaths": 6524,
+    "finalDeaths": 1717,
+    "beds": {
+      "lost": 1660,
+      "broken": 812
+    },
+    "solo": {
+      "playedGames": 269,
+      "kills": 269,
+      "deaths": 560,
+      "wins": 16,
+      "losses": 253,
+      "finalKills": 118,
+      "finalDeaths": 236,
+      "beds": {
+        "broken": 182,
+        "lost": 225
+      }
+    },
+    "doubles": {
+      "playedGames": 409,
+      "kills": 569,
+      "deaths": 1064,
+      "wins": 29,
+      "losses": 379,
+      "finalKills": 227,
+      "finalDeaths": 366,
+      "beds": {
+        "broken": 169,
+        "lost": 364
+      }
+    },
+    "threes": {
+      "playedGames": 201,
+      "kills": 382,
+      "deaths": 600,
+      "wins": 35,
+      "losses": 166,
+      "finalKills": 139,
+      "finalDeaths": 162,
+      "beds": {
+        "broken": 64,
+        "lost": 157
+      }
+    },
+    "fours": {
+      "playedGames": 1125,
+      "kills": 2176,
+      "deaths": 3626,
+      "wins": 250,
+      "losses": 875,
+      "finalKills": 872,
+      "finalDeaths": 880,
+      "beds": {
+        "broken": 315,
+        "lost": 848
+      }
+    },
+    "4v4": {
+      "playedGames": 232,
+      "kills": 384,
+      "deaths": 674,
+      "wins": 163,
+      "losses": 69,
+      "finalKills": 216,
+      "finalDeaths": 73,
+      "beds": {
+        "broken": 82,
+        "lost": 66
+      }
+    }
+  },
+  "duels": {
+    "wins": 2142,
+    "losses": 2018
+  },
+  "pit": {
+    "kills": 749,
+    "deaths": 1865,
+    "assists": 1748,
+    "damageReceived": 45891,
+    "damageDealt": 29704,
+    "meleeAccuracy": 0.48
+  }
+}
