@@ -161,11 +161,6 @@ const commands = [
             .setDescription('The team to get info on')
             .setRequired(true)
         )
-      )
-    .addSubcommand(subcommand =>
-      subcommand
-        .setName('edit')
-        .setDescription('Edit a team')
       ),
   new SlashCommandBuilder()
     .setName('player')
