@@ -121,6 +121,7 @@ const partsToInclude = [
   "pit.damageReceived",
   "pit.damageDealt",
   "pit.meleeAccuracy",
+  "pit.playtime"
 ];
 const partsToOmit = [
   "**.coins",
@@ -222,8 +223,8 @@ function calculateELO(stats: any): number {
   const killMultiplier = 0.1;
   const deathMultiplier = -0.02;
   const levelMultiplier = 2;
-  const finalKillMultiplier = 0.2;
-  const finalDeathMultiplier = -0.05;
+  const finalKillMultiplier = 0.3;
+  const finalDeathMultiplier = -0.03;
   const bedMultiplier = 1;
   const assistMultiplier = 0.05;
   const damageDealtMultiplier = 0.001;
@@ -231,19 +232,19 @@ function calculateELO(stats: any): number {
   const meleeAccuracyMultiplier = 10;
 
   // Calculate ELO for SkyWars
-  let skywarsELO = (stats.skywars.kills * killMultiplier) + (stats.skywars.wins * winMultiplier) - 
-                   (stats.skywars.losses * lossMultiplier) - (stats.skywars.deaths * deathMultiplier) + 
-                   (stats.skywars.level * levelMultiplier);
+  let skywarsELO = (stats.skywars?.kills * killMultiplier*3) + (stats.skywars?.wins * winMultiplier*2) - 
+                   (stats.skywars?.losses * lossMultiplier/3) - (stats.skywars?.deaths * deathMultiplier/2) + 
+                   (stats.skywars?.level * levelMultiplier);
 
   // Calculate ELO for BedWars
-  let bedwarsELO = (stats.bedwars.kills * killMultiplier) + (stats.bedwars.finalKills * finalKillMultiplier) - 
-                   (stats.bedwars.finalDeaths * finalDeathMultiplier) + (stats.bedwars.wins * winMultiplier) - 
-                   (stats.bedwars.losses * lossMultiplier) - (stats.bedwars.deaths * deathMultiplier) + 
-                   (stats.bedwars.beds.broken * bedMultiplier) - (stats.bedwars.beds.lost * bedMultiplier) + 
-                   (stats.bedwars.level * levelMultiplier);
+  let bedwarsELO = (stats.bedwars?.kills * killMultiplier) + (stats.bedwars?.finalKills * finalKillMultiplier) - 
+                   (stats.bedwars?.finalDeaths * finalDeathMultiplier) + (stats.bedwars?.wins * winMultiplier) - 
+                   (stats.bedwars?.losses * lossMultiplier) - (stats.bedwars?.deaths * deathMultiplier) + 
+                   (stats.bedwars?.beds.broken * bedMultiplier*3) - (stats.bedwars?.beds.lost * bedMultiplier/5) + 
+                   (stats.bedwars?.level * levelMultiplier);
 
   // Calculate ELO for Duels
-  let duelsELO = (stats.duels?.wins * winMultiplier) - (stats.duels?.losses * lossMultiplier);
+  let duelsELO = (stats.duels?.wins * winMultiplier/3) - (stats.duels?.losses * lossMultiplier*3);
 
   // Calculate ELO for Pit
   let pitELO = (stats.pit?.kills * killMultiplier) + (stats.pit?.assists * assistMultiplier) - 
@@ -252,7 +253,8 @@ function calculateELO(stats: any): number {
                (stats.pit?.meleeAccuracy * meleeAccuracyMultiplier);
 
   // Sum all ELOs to get the final ELO
-  let totalELO = skywarsELO / (stats.skywars.playedGames * 0.3) + bedwarsELO / (stats.bedwars.playedGames * 0.7) + duelsELO ?? 0 + pitELO ?? 0;
+  console.log((~~skywarsELO / (~~stats.skywars?.playedGames+1)) * 75, (~~bedwarsELO / (~~stats.bedwars?.playedGames+1)) * 100/* , (~~pitELO / (~~stats.pit?.playtime/60+1)) */);
+  let totalELO = (~~skywarsELO / (~~stats.skywars?.playedGames+1)) * 75 + (~~bedwarsELO / (~~stats.bedwars?.playedGames+1)) * 100/*  + (~~pitELO / (~~stats.pit?.playtime/60+1)) */;
   return totalELO;
 }
 
